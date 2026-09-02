@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+bs4
+curl_cffi
+gdown
+matplotlib
+seaborn
+wandb
+torch
+torchinfo
+torchvision
+scikit-learn

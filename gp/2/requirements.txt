@@ -1,0 +1,11 @@
+pandas
+numpy
+requests
+selenium==4.41.0
+beautifulsoup4
+openpyxl
+matplotlib
+seaborn
+nltk
+scipy
+wordcloud
